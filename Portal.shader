@@ -1,3 +1,5 @@
+// made with amplify
+
 Shader "Anil/Amplify Portal Shader"
 {
 	Properties
